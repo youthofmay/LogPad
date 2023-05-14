@@ -2,18 +2,18 @@
 A Simple Windows Event Log Collection Agent
 <br><br>
 Screenshots:
-<br><br>
+<p>
 <img src="https://github.com/youthofmay/LogPad/blob/main/Screenshots/Screenshot%202022-10-05%20163916.png">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p><p>
 <img src="">
-<br><br>
+</p>
